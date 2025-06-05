@@ -8,7 +8,7 @@
 - ⛓️ I can use this Programming Language: **c, c#, c++, c#, dart, and rust**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://instagram.com/hi_mitsu.2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hi_mitsu.2" height="30" width="40" /></a>
 </p>
 
