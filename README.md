@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Artificial Intelligence, and Machine Learning**
 - 💬 I was usually use this framework **Django, Laravel, and Flutter**
 - ⚒️ Programming Languages was i used: **python, java, and php**
-- ⛓️ I can use this Programming Language: **c, c#, c++, c#, dart, and rust**
+- ⛓️ I can use this Programming Language: **c, c#, c++, dart, and rust**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
