@@ -1,4 +1,4 @@
-<h1 align="center">Hello Guys b4its is here..</h1>
+<h1 align="center">hello, b4its is here..</h1>
 <h3 align="center">I'm Software Engineer and Data Scientist</h3>
 
 - 🏆 Hackaton Infinite DevFest 4.0, Juara 1, level **regional**.
