@@ -1,9 +1,11 @@
 <h1 align="center">Hello Guys b4its is here..</h1>
 <h3 align="center">I'm Software Engineer and Data Scientist</h3>
 
+- 🏆 Hackaton Infinite DevFest 4.0, Juara 1, level **regional**.
 - 🌱 I’m currently learning **Artificial Intelligence, and Machine Learning**
-
-- 💬 Ask me about **Django, Laravel, Flutter, python, php, and java**
+- 💬 I was usually use this framework **Django, Laravel, and Flutter**
+- ⚒️ Programming Languages was i used: **python, java, and php**
+- ⛓️ I can use this Programming Language: **c, c#, c++, c#, dart, and rust**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
